@@ -1,1 +1,1 @@
-gradlew jmh
+./gradlew jmh
