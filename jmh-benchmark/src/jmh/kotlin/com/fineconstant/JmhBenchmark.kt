@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit
 open class JmhBenchmark {
     private val fibonacciN = 25
 
-    @org.openjdk.jmh.annotations.Benchmark
+    @Benchmark
     fun fibonacciTailrec(bh: Blackhole) {
         bh.consume(Fibonacci.apply(fibonacciN))
     }
