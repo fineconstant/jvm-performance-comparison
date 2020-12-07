@@ -1,3 +1,3 @@
-git checkout master
+git checkout java-11
 
 ./gradlew jmh
