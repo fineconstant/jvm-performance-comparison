@@ -1,3 +1,3 @@
-git checkout jdk-8
+git checkout java-8
 
 ./gradlew jmh
