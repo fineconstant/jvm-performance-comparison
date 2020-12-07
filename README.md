@@ -5,7 +5,7 @@ This is a source code for article available on [my website](https://www.finecons
 
 ## How to run
 
-- Java 8 benchmark
+- Java 8 benchmark  
   `run-benchmark-java-8.sh`
-- Java 11 benchmark
+- Java 11 benchmark  
   `run-benchmark-java-11.sh`
