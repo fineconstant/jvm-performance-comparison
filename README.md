@@ -1,6 +1,6 @@
 # Comparing performance of JVM implementations
 
-This is a source code for the article available on [my website/blog](https://www.fineconstant.com/posts/comparing-jvm-performance/).
+This is a source code for the article available on my [website/blog](https://www.fineconstant.com/posts/comparing-jvm-performance/).
 
 
 ## How to run
