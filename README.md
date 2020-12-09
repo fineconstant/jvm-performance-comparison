@@ -1,5 +1,7 @@
 # Comparing performance of JVM implementations
 
+[![Visits Badge](https://badges.pufler.dev/visits/fineconstant/jvm-performance-comparison?style=for-the-badge)](https://badges.pufler.dev)
+
 This is a source code for the article available on my [website/blog](https://www.fineconstant.com/posts/comparing-jvm-performance/).
 
 
